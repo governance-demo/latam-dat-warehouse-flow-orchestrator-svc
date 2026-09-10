@@ -1,2 +1,6 @@
 # latam-dat-warehouse-flow-orchestrator-svc
-data-and-analytics / standard / latam
+
+Team: **data-and-analytics**  
+Tier: **standard**  
+Region: **latam**  
+Synthetic demo repo for the Domo governance platform.
